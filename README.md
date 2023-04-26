@@ -24,8 +24,6 @@
   
   
   ### File Map
-   <ul>assignment5_cc.py: &emsp;Source code of 1st Question</ul>
-   <ul>assignment5_speech.py: &emsp;Source code of 2nd Question</ul>
-   <ul>assignment5_iris.py: &emsp;Source code of 3rd Question</ul>
-   <ul>csv files: &emsp;Datasets</ul>
-   <ul>Assignment5 Output.docx: &emsp;Report for Assignment 5</ul>
+   <ul>Results and Screenshots: &emsp;All screenshots of results, along with CSV files showing Summary of each model. All Classifiers are having individual folders inside this folder. Any file directly inside the Results and Screenshots folder are universal comparison metrics</ul>
+   <ul>ML project Final PPT.pptx: &emsp;Final PPT presentation to be used in Demo</ul>
+   <ul>dataset.py: &emsp;Source code for all classifiers and implementation. The code if ran for the first time saves a preprocessed .npy file to the root folder, as running again and again would save some resources. The training and testing data .npy file is more than 5GB, so we have not uploaded that</ul>
