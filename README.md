@@ -1,12 +1,25 @@
 # ML Project-Journal Club
  # Group Members Info:
   ## 
-    ### Name- Sushant Ashish
-    ### Student ID- 700747009
-    ### CRN- 22002
-    ### Email- sxa70091@ucmo.edu
+    Name- Sushant Ashish
+    Student ID- 700747009
+    CRN- 22002
+    Email- sxa70091@ucmo.edu
   ##
-    ### Name- Vinay Kumar Camarushi
+    Name- Vinay Kumar Camarushi
+    Student ID- 700740428
+    CRN- 22002
+    Email- vxc04280@ucmo.edu
+  ##
+    Name- Madhuri Gadaboina
+    Student ID- 700741049
+    CRN- 22002
+    Email- mxg10490@ucmo.edu
+  ##
+    Name- Mythrei Nalluri
+    Student ID- 700741075
+    CRN- 22002
+    Email- mxn10750@ucmo.edu
   
   
   
